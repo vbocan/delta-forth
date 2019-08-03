@@ -1,0 +1,6 @@
+/DeltaForth/bin
+/DeltaForth/obj
+
+# Visual Studio Files and Folders
+/.vs
+/DeltaForth/*.cproj.users
